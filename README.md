@@ -1,1 +1,1 @@
-# exercise--tracker-project-backend
+# exercise-tracker-project-backend
